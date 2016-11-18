@@ -49,3 +49,4 @@ Project นี้จะโหลดภาพจากไฟล์ (ชนิด�
 
 **[ตัวอย่างงานวาดภาพ Doraemon ของรุ่นพี่](https://github.com/Desktop-Programming-Lab-2559/LAB-12/blob/master/Doraemon.md)**
 ![](https://github.com/Mustted/LAB-12/blob/master/LAB12_LAST.png?raw=true)
+![](https://github.com/Mustted/LAB-12/blob/master/LAB12_Doraemon.png?raw=true)
